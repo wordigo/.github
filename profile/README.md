@@ -14,9 +14,9 @@ The motivation behind Wordigo is to simplify the process of translating and read
 
 The main tasks planned for this project include:
 
-- [ ] Developing a user-friendly browser extension for text translation @osmandlsmn
-- [ ] Implementing a robust translation engine to support various languages (Google Cloud Translate) @osmandlsmn
-- [ ] Preparing the introduction pages of the application on the website @yusufgns
+- [ ] Developing a user-friendly browser extension for text translation @osmandlsmn [@osmandlsmn](https://github.com/osmandlsmn)
+- [ ] Implementing a robust translation engine to support various languages (Google Cloud Translate) [@osmandlsmn](https://github.com/osmandlsmn)
+- [ ] Preparing the introduction pages of the application on the website [@yusufgns](https://github.com/yusufgns)
 - [ ] Allowing users to customize and manage their personal dictionaries
 - [ ] Enhancing the extension with additional features based on user feedback
 
