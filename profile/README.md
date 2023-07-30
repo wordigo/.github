@@ -1,6 +1,6 @@
 # Wordigo
 
-![Wordigo Logo]([https://github.com/wordigo/.github/blob/86a320a9c26a9332680f4fa733b605419bc7c4f2/logo.png])
+![Wordigo Logo]([https://github.com/wordigo/.github/blob/86a320a9c26a9332680f4fa733b605419bc7c4f2/logo.png?raw=true])
 
 ## Project Description
 
