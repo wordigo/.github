@@ -1,6 +1,6 @@
 # Wordigo
 
-![Wordigo Logo](https://wordigo.app/next/image?url=%2Fimages%2Flogo.png&w=640&q=75&dpl=dpl_2PRvg3FiE87Negei43ZVes7ozieu)
+![Wordigo Logo]([https://wordigo.app/next/image?url=%2Fimages%2Flogo.png&w=640&q=75&dpl=dpl_2PRvg3FiE87Negei43ZVes7ozieu]
 
 ## Project Description
 
@@ -14,10 +14,10 @@ The motivation behind Wordigo is to simplify the process of translating and read
 
 The main tasks planned for this project include:
 
-- [ ] Developing a user-friendly browser extension for text translation @osmandlsmn [@osmandlsmn](https://github.com/osmandlsmn)
-- [ ] Implementing a robust translation engine to support various languages (Google Cloud Translate) [@osmandlsmn](https://github.com/osmandlsmn)
-- [ ] Preparing the introduction pages of the application on the website [@yusufgns](https://github.com/yusufgns)
-- [ ] Allowing users to customize and manage their personal dictionaries
+- [x] Developing a user-friendly browser extension for text translation @osmandlsmn [@osmandlsmn](https://github.com/osmandlsmn)
+- [x] Implementing a robust translation engine to support various languages (Google Cloud Translate) [@osmandlsmn](https://github.com/osmandlsmn)
+- [x] Preparing the introduction pages of the application on the website [@yusufgns](https://github.com/yusufgns)
+- [x] Allowing users to customize and manage their personal dictionaries
 - [ ] Enhancing the extension with additional features based on user feedback
 
 By completing these tasks, we aim to create a powerful and user-friendly browser extension that simplifies the process of translating and
