@@ -1,6 +1,6 @@
 # Wordigo
 
-![Wordigo Logo]([https://wordigo.app/next/image?url=%2Fimages%2Flogo.png&w=640&q=75&dpl=dpl_2PRvg3FiE87Negei43ZVes7ozieu])
+![Wordigo Logo]([https://github.com/wordigo/.github/blob/86a320a9c26a9332680f4fa733b605419bc7c4f2/logo.png])
 
 ## Project Description
 
