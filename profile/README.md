@@ -4,7 +4,7 @@
       src="https://github.com/wordigo/.github/blob/86a320a9c26a9332680f4fa733b605419bc7c4f2/logo.png"
       alt="Wordigo Logo"
       width="300px"
-      height="80px"
+      height="120px"
     />
   </a>
 </div>
